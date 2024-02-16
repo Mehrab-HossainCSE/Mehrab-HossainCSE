@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mehrab Hossain</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
+<h3 align="center">I am a passionate software engineer with expertise in problem-solving and algorithmic thinking.</h3>
 <img aling="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif ">
 
 - 🌱 I’m currently learning **C# (.NET) , JavaScript , Docker**
